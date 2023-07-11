@@ -144,7 +144,6 @@
 }
 
 .footer_container {
-    margin: 10%;
     color: white;
 }
 
@@ -156,7 +155,6 @@ footer {
 }
 
 .footer_menu {
-    margin-top: 30px;
     text-align: center;
     font-family: Lato;
     font-size: 48px;
